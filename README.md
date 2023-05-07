@@ -2,7 +2,7 @@
 Portfolio
 
 
-# [Project 1: Identification of Lower Back Pain][https://github.com/Meghna0907/BackPainIdentification] 
+# [Project 1: Identification of Lower Back Pain](https://github.com/Meghna0907/BackPainIdentification)
 
 * Predicts the spinal abnormality based on collected physical spine data by using supervised 
 machine learning.
